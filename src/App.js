@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <h1>{process.env.REACT_APP_BASE_URL}</h1>
       </header>
     </div>
   );
