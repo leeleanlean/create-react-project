@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 构建说明
+
+### 1. 分支说明
+|分支|描述|
+|-----|-----|
+|main|main|
+|init|init|
+|env|env|
+
 ## Available Scripts
 
 In the project directory, you can run:
