@@ -1,3 +1,4 @@
+import {Button} from 'antd';
 import logo from './logo.svg';
 import './App.css';
 
@@ -18,6 +19,7 @@ function App() {
           Learn React
         </a>
         <h1>{process.env.REACT_APP_BASE_URL}</h1>
+        <Button type="primary">antd</Button>
       </header>
     </div>
   );
